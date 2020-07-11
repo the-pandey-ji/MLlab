@@ -13,4 +13,4 @@ a2 = np.arange(size)
 start2 = time.time()
 result_numpy = a1+a2
 print('Time taken by numpy:', time.time()-start2)
-print()
+print("testing")
