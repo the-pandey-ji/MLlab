@@ -23,3 +23,4 @@ print('memory occupied by List', sys.getsizeof(10) * len(s))
 # memory occupied by numpy
 d = np.arange(1000)
 print('memory occupied by Numpy Array', d.size * d.itemsize)
+print()
